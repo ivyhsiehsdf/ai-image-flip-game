@@ -1,4 +1,8 @@
 @charset "UTF-8";
+[v-cloak] {
+  display: none;
+}
+
 @keyframes scale-out-center {
   0% {
     transform: scale(1);
